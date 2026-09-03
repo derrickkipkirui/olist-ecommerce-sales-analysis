@@ -68,4 +68,4 @@ Olist connects small Brazilian businesses to major marketplaces. This project an
 **Author:** Derrick Korir | Aspiring Data Analyst |  Kenya
 **LinkedIn:** https://www.linkdin.com/in/derrickkorir | **Github:** https://github.com/derrickkipkirui
 
-### 📁 Repo Structure
+
