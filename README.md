@@ -59,6 +59,21 @@ Olist connects small Brazilian businesses to major marketplaces. This project an
 - Power BI - DAX & Visualization
 - GitHub
 
+## 3. A/B Testing & Experimentation
+
+To move beyond descriptive analytics, I designed two A/B tests to drive business decisions.
+
+**Olist Checkout Flow Optimization**
+- **Hypothesis:** New checkout (Treatment_B) increases conversion
+- **Sample:** 2000 users (1000 Control_A, 1000 Treatment_B)
+- **Result:** 12.0% vs 15.6% conversion, p-value = 0.019 < alpha (0.05)
+- **Decision:** REJECT Null - Significant. Rollout Treatment_B. Projected +$4.2K weekly revenue (+30% uplift)
+
+
+
+**Tech:** Python (scipy.stats.ttest_ind)
+**Files:**  `datasets/olist_ab_test.csv`
+
 ### 🚀 How to Reproduce
 1. Download from [Kaggle Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 2. Run scripts in `/scripts`
