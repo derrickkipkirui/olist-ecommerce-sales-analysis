@@ -4,6 +4,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Python](https://img.shields.io/badge/Python-A%2FB%20Testing-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ### 📊 Dashboard Overview
@@ -14,6 +15,7 @@ Olist connects small Brazilian businesses to major marketplaces. This project an
 - Which product categories drive revenue?
 - Which states deliver fastest & buy most?
 - What is the customer payment behavior?
+- Does new checkout increase conversion? (A/B Test
 
 ### 📈 Key KPIs - From Dashboard
 | Metric | Value |
@@ -24,6 +26,7 @@ Olist connects small Brazilian businesses to major marketplaces. This project an
 | **Total Customers** | **96K** |
 | **Total Sellers** | **3K** |
 | **Average Order Value** | **125.28** |
+| **A/B Test Uplift | +30% (p=0.019)
 
 ### 💡 Key Insights Discovered
 
@@ -59,11 +62,11 @@ Olist connects small Brazilian businesses to major marketplaces. This project an
 - Power BI - DAX & Visualization
 - GitHub
 
-### A/B Testing & Experimentation
+### 🧪 A/B Testing & Experimentation (Python)
 
 To move beyond descriptive analytics, I designed two A/B tests to drive business decisions.
 
-**Olist Checkout Flow Optimization**
+** Olist Checkout Flow Optimization**
 - **Hypothesis:** New checkout (Treatment_B) increases conversion
 - **Sample:** 2000 users (1000 Control_A, 1000 Treatment_B)
 - **Result:** 12.0% vs 15.6% conversion, p-value = 0.019 < alpha (0.05)
