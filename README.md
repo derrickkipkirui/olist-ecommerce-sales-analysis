@@ -59,7 +59,7 @@ Olist connects small Brazilian businesses to major marketplaces. This project an
 - Power BI - DAX & Visualization
 - GitHub
 
-## 3. A/B Testing & Experimentation
+### A/B Testing & Experimentation
 
 To move beyond descriptive analytics, I designed two A/B tests to drive business decisions.
 
