@@ -54,5 +54,18 @@ Olist connects small Brazilian businesses to major marketplaces. This project an
 **GOLD:** DAX Measures - Total Revenue, AOV, Delivery Time, Orders by State
 
 
+### 🛠️ Tech Stack
+- SQL - Data Cleaning & Modeling
+- Power BI - DAX & Visualization
+- GitHub
+
+### 🚀 How to Reproduce
+1. Download from [Kaggle Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+2. Run scripts in `/scripts`
+3. Open `.pbix` file
+
+---
+**Author:** Derrick Korir | Aspiring Data Analyst |  Kenya
+**LinkedIn:** https://www.linkdin.com/in/derrickkorir | **Github:** https://github.com/derrickkipkirui
 
 ### 📁 Repo Structure
