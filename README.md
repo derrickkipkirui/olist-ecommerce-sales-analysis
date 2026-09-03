@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ### 📊 Dashboard Overview
-![Dashboard](images/dashboard-olist.png)
+![Dashboard](dashboard-olist.jpeg)
 
 ### 🎯 Business Problem
 Olist connects small Brazilian businesses to major marketplaces. This project answers:
