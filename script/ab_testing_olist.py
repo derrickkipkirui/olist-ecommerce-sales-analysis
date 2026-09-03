@@ -1,3 +1,24 @@
+"""
+====================================================================================
+Create A/B Testing Framewrk
+====================================================================================
+Script purpose:
+This script creates and analyzes A/B tests for Olist e-commerce. 
+it sets up Olist: Control_A (12.0%) vs Treatment_B (15.6%) - checkout flow
+Analysis includes:
+-conversion rate calculation
+-two sample T-test with alpha = 0.5
+-Uplift and business recommendation
+
+Warning:
+This script generates simulated data for portfolio demonstration.
+Use real production data with proper randomization in live experiments.
+
+"""
+                             
+
+
+
 import pandas as pd
 import numpy as np
 from scipy.stats import ttest_ind
