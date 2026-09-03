@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ### 📊 Dashboard Overview
-![Dashboard](images/dashboard-main.png)
+![Dashboard](images/dashboard-olist.png)
 
 ### 🎯 Business Problem
 Olist connects small Brazilian businesses to major marketplaces. This project answers:
@@ -53,6 +53,6 @@ Olist connects small Brazilian businesses to major marketplaces. This project an
 **SILVER:** Star Schema - `fact_orders` + `dim_customers`, `dim_products`, `dim_sellers`, `dim_date`
 **GOLD:** DAX Measures - Total Revenue, AOV, Delivery Time, Orders by State
 
-### 📁 Repo Structure
+
 
 ### 📁 Repo Structure
