@@ -84,6 +84,6 @@ To move beyond descriptive analytics, I designed two A/B tests to drive business
 
 ---
 **Author:** Derrick Korir | Aspiring Data Analyst |  Kenya
-**LinkedIn:** https://www.linkdin.com/in/derrickkorir | **Github:** https://github.com/derrickkipkirui
+**[LinkedIn]:** https://www.linkdin.com/in/derrickkorir | **[Github]:** https://github.com/derrickkipkirui
 
 
