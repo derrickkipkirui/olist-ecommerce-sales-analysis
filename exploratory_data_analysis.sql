@@ -1,6 +1,6 @@
 /*
 Gold layer - Exploratory Data Analysis
-Project: Olist-ecommerce-sales-analysis
+Project: Olist ecommerce sales analysis
 Description: Key business insights from gold layer
 */
 
